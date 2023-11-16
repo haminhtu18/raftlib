@@ -2,7 +2,7 @@
 
 Step 1: Update the ubuntu system packages
 
-sudo apt  update && sudo apt -y upgrade && sudo apt -y dít-upgrade && sudo apt -y autoremove && sudo apt autoclean
+sudo apt  update && sudo apt -y upgrade && sudo apt -y dist-upgrade && sudo apt -y autoremove && sudo apt autoclean
 
 sudo apt-get -y install build-essential gcc make perl dkms
 
